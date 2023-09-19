@@ -3,8 +3,6 @@
 🌱 I’m currently learning ... ![Java](https://img.shields.io/badge/Java-007396.svg?&style=plastic&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=plastic&logo=Spring&logoColor=white)
 
-📫 How to reach me: ... <a href="https://www.instagram.com/d4.1n/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=E4405F"/></a>
-
 
 <br/><br/>
 ## BOJ
